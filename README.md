@@ -16,7 +16,7 @@ This is a simple **Guess the Number** game built using **HTML, CSS, and JavaScri
 - 🔄 Restart button to play again
 
 ## 📷 Screenshots
-![Game Preview](path/to/screenshot.png) *(Replace with actual screenshot URL)*
+![Game Preview](screenshots/Game-UI.png)
 
 ## 📜 How to Play?
 1. The game randomly selects a number within the given range (e.g., 1-100).
